@@ -1,0 +1,334 @@
+>bird	classification	genus	family	order
+bar headed goose	waterfowl		ducks, geese and swans	anseriformes
+mallard	waterfowl	anas	ducks, geese and swans	anseriformes
+mallard duck	waterfowl	anas	ducks, geese and swans	anseriformes
+shorebird	shorebirds		plovers	charadriiformes
+pintail duck	waterfowl		ducks, geese and swans	anseriformes
+black duck	waterfowl		ducks, geese and swans	anseriformes
+duck	waterfowl	anas	ducks, geese and swans	anseriformes
+goose	waterfowl		ducks, geese and swans	anseriformes
+chicken	domestic birds	gallus	pheasants and allies	galliformes
+northern pintail	waterfowl	anas	ducks, geese and swans	anseriformes
+blue-winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+widgeon	waterfowl	anas	ducks, geese and swans	anseriformes
+gadwall	waterfowl	anas	ducks, geese and swans	anseriformes
+ruddy turnstone	shorebirds	arenaria	sandpipers, snipes	charadriiformes
+African Stonechat	land birds	saxicola	chats, old world flycatchers (320)	passeriformes
+wild duck	waterfowl	anas	ducks, geese and swans	anseriformes
+American coot	land birds	fulica	rails, crakes and coots	gruiformes
+red knot	shorebirds	calidris	sandpipers, snipes	charadriiformes
+avian	unknown			
+barn swallow	land birds	hirundo	swallows, martins	passeriformes
+pintail	waterfowl	anas	ducks, geese and swans	anseriformes
+muscovy duck	waterfowl	cairina	ducks, geese and swans	anseriformes
+semi-palmated sandpiper	shorebirds	calidris	sandpipers, snipes	charadriiformes
+American green-winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+herring gull	shorebirds		gulls, terns and skimmers	charadriiformes
+American wigeon	waterfowl	anas	ducks, geese and swans	anseriformes
+black-billed magpie	land birds	pica	crows, jays	passeriformes
+white front goose	waterfowl		ducks, geese and swans	anseriformes
+wild waterfowl	waterfowl		ducks, geese and swans	anseriformes
+brambling	land birds	fringilla	finches	passeriformes
+laughing gull	shorebirds	leucophaeus	gulls, terns and skimmers	charadriiformes
+gull	shorebirds		gulls, terns and skimmers	charadriiformes
+Cygnus olor	waterfowl	cygnus	ducks, geese and swans	anseriformes
+turkey	domestic birds	meleagris	pheasants and allies	galliformes
+green-winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+Chinese Hwamei	land birds	garrulax	laughingthrushes	passeriformes
+canvasback	waterfowl	aythya	ducks, geese and swans	anseriformes
+sanderling	shorebirds	calidris	sandpipers, snipes	charadriiformes
+northern shoveler	waterfowl	anas	ducks, geese and swans	anseriformes
+greater scaup	waterfowl	aythya	ducks, geese and swans	anseriformes
+common goldeneye	waterfowl	bucephala	ducks, geese and swans	anseriformes
+turnstone	shorebirds	arenaria	sandpipers, snipes	charadriiformes
+Canada goose	waterfowl	branta	ducks, geese and swans	anseriformes
+snow goose	waterfowl	chen	ducks, geese and swans	anseriformes
+cinnamon teal	waterfowl	anas	ducks, geese and swans	anseriformes
+white-fronted goose	waterfowl		ducks, geese and swans	anseriformes
+Guinea fowl	domestic birds		guineafowl	galliformes
+tundra swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+common murre	shorebirds	uria	auks	charadriiformes
+thick-billed murre	shorebirds		auks	charadriiformes
+chukar	domestic birds	alectoris	pheasants and allies	galliformes
+common coot	land birds	fulica	rails, crakes and coots	gruiformes
+aquatic bird	waterfowl		ducks, geese and swans	anseriformes
+American black duck	waterfowl	anas	ducks, geese and swans	anseriformes
+condor	land birds		cathartidae	cathartiformes
+silkie chicken	domestic birds	gallus	pheasants and allies	galliformes
+coot	land birds	fulica	rails, crakes and coots	gruiformes
+teal	waterfowl	anas	ducks, geese and swans	anseriformes
+greater white-fronted goose	waterfowl		ducks, geese and swans	anseriformes
+sooty tern	shorebirds	onychoprion	gulls, terns and skimmers	charadriiformes
+crow	land birds	corvus	crows, jays	passeriformes
+red-necked stint	shorebirds	calidris	sandpipers, snipes	charadriiformes
+egret	shorebirds	egretta	herons, bitterns	pelecaniformes
+black-headed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+emu	land birds	dromaius	emu	casuariiformes
+eurasian coot	land birds	fulica	rails, crakes and coots	gruiformes
+blue winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+baikal teal	waterfowl	anas	ducks, geese and swans	anseriformes
+long-tailed duck	waterfowl		ducks, geese and swans	anseriformes
+sharp-tailed sandpiper	shorebirds	calidris	sandpipers, snipes	charadriiformes
+partridge	domestic birds	perdix	pheasants and allies	galliformes
+Eurasian eagle owl	land birds	bubo	owls	strigiformes
+finch	land birds	fringilla	finches	passeriformes
+quail	domestic birds	coturnix	pheasants and allies	galliformes
+least sandpiper	shorebirds	calidris	sandpipers, snipes	charadriiformes
+FPV	unknown			
+breeder duck	waterfowl		ducks, geese and swans	anseriformes
+Bewick's swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+bufflehead	waterfowl	bucephala	ducks, geese and swans	anseriformes
+GSC_chicken_B	domestic birds	gallus	pheasants and allies	galliformes
+knot	shorebirds	calidris	sandpipers, snipes	charadriiformes
+gray teal	waterfowl	anas	ducks, geese and swans	anseriformes
+great crested grebe	land birds	podiceps	grebes	podicipediformes
+rufous-necked stint	shorebirds	calidris	sandpipers, snipes	charadriiformes
+fowl	domestic birds	gallus	pheasants and allies	galliformes
+grebe	land birds	podiceps	grebes	podicipediformes
+seagull	shorebirds		gulls, terns and skimmers	charadriiformes
+pekin duck	waterfowl		ducks, geese and swans	anseriformes
+spot-billed duck	waterfowl		ducks, geese and swans	anseriformes
+common teal	waterfowl	anas	ducks, geese and swans	anseriformes
+bean goose	waterfowl		ducks, geese and swans	anseriformes
+Korean native chicken	domestic birds	gallus	pheasants and allies	galliformes
+breeder chicken	domestic birds	gallus	pheasants and allies	galliformes
+wood duck	waterfowl	aix	ducks, geese and swans	anseriformes
+domestic green-winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+hill myna	land birds	gracula	sturnidae	passeriformes
+bar-headed goose	waterfowl		ducks, geese and swans	anseriformes
+homing pigeon	land birds		pigeons, doves	columbiformes
+tufted duck	waterfowl	aythya	ducks, geese and swans	anseriformes
+Mongolian gull	shorebirds		gulls, terns and skimmers	charadriiformes
+ring-necked duck	waterfowl		ducks, geese and swans	anseriformes
+yellow-legged gull	shorebirds	larus	gulls, terns and skimmers	charadriiformes
+mallard-black duck hybrid	waterfowl		ducks, geese and swans	anseriformes
+eurasian wigeon	waterfowl	anas	ducks, geese and swans	anseriformes
+shoveler	waterfowl	anas	ducks, geese and swans	anseriformes
+horned puffin	land birds	puffinus	petrels, shearwaters	procellariiformes
+lesser scaup	waterfowl	aythya	ducks, geese and swans	anseriformes
+Cygnus cygnus	waterfowl	cygnus	ducks, geese and swans	anseriformes
+blue winged-teal	waterfowl	anas	ducks, geese and swans	anseriformes
+rosy-billed pochard	waterfowl	netta	ducks, geese and swans	anseriformes
+Japanese white-eye	land birds	zosterops	white-eyes	passeriformes
+redhead duck	waterfowl		ducks, geese and swans	anseriformes
+great black-backed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+whistling swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+black scoter	waterfowl	melanitta	ducks, geese and swans	anseriformes
+redhead	waterfowl	aythya	ducks, geese and swans	anseriformes
+Peking duck	waterfowl		ducks, geese and swans	anseriformes
+little grebe	land birds	tachybaptus	grebes	podicipediformes
+marabou stork	land birds	leptoptilos	storks	ciconiiformes
+mountain hawk-eagle	land birds	accipiter	kites, hawks and eagles	accipitriformes
+American widgeon	waterfowl	anas	ducks, geese and swans	anseriformes
+openbill stork	land birds		storks	ciconiiformes
+black headed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+longtail duck	waterfowl		ducks, geese and swans	anseriformes
+dunlin	shorebirds	calidris	sandpipers, snipes	charadriiformes
+waterfowl	waterfowl		ducks, geese and swans	anseriformes
+swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+green winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+Japanese quail	domestic birds	coturnix	pheasants and allies	galliformes
+whooper swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+ruddy shelduck	waterfowl	tadorna	ducks, geese and swans	anseriformes
+call duck	waterfowl		ducks, geese and swans	anseriformes
+spotbill duck	waterfowl		ducks, geese and swans	anseriformes
+snipe	shorebirds		scolopacidae	charadriiformes
+greylag goose	waterfowl	anser	ducks, geese and swans	anseriformes
+common scoter	waterfowl	melanitta	ducks, geese and swans	anseriformes
+open-bill stork	land birds		storks	ciconiiformes
+open-billed stork	land birds		storks	ciconiiformes
+broiler duck	waterfowl		ducks, geese and swans	anseriformes
+ostrich	land birds		ostriches	struthioniformes
+parakeet	land birds		parrots	psittaciformes
+common eider	waterfowl	somateria	ducks, geese and swans	anseriformes
+white-rumped sandpiper	shorebirds	calidris	sandpipers, snipes	charadriiformes
+parrot	land birds		parrots	psittaciformes
+California gull	shorebirds	larus	gulls, terns and skimmers	charadriiformes
+white-winged scoter	waterfowl	melanitta	ducks, geese and swans	anseriformes
+mandarin duck	waterfowl	aix	ducks, geese and swans	anseriformes
+pelican	shorebirds	pelecanus	pelicans	pelecaniformes
+guineafowl	domestic birds		guineafowl	galliformes
+peregrine falcon	land birds	falco	caracaras, falcons	falconiformes
+pied magpie	land birds	pica	crows, jays	passeriformes
+canvasback duck	waterfowl		ducks, geese and swans	anseriformes
+gadwall duck	waterfowl		ducks, geese and swans	anseriformes
+pheasant	domestic birds		pheasants and allies	galliformes
+garganey	waterfowl	anas	ducks, geese and swans	anseriformes
+pigeon	land birds		pigeons, doves	columbiformes
+poultry	domestic birds			
+scaup	waterfowl	aythya	ducks, geese and swans	anseriformes
+duck 	waterfowl		ducks, geese and swans	anseriformes
+red-necked grebe	land birds	podiceps	grebes	podicipediformes
+ring-billed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+rhea	land birds	rhea	rheas	rheiformes
+rock dove	land birds	columba	pigeons, doves	columbiformes
+wigeon	waterfowl	anas	ducks, geese and swans	anseriformes
+domestic duck	waterfowl		ducks, geese and swans	anseriformes
+Rock Pigeon	land birds		pigeons, doves	columbiformes
+glaucous-winged gull	shorebirds		gulls, terns and skimmers	charadriiformes
+Mediterranean gull	shorebirds		gulls, terns and skimmers	charadriiformes
+rook	land birds	corvus	crows, jays	passeriformes
+saker falcon	land birds	falco	caracaras, falcons	falconiformes
+shearwater	shorebirds	puffinus	petrels, shearwaters	procellariiformes
+shrike	land birds	lanius	shrikes	passeriformes
+softbill	land birds			
+hooded merganser	waterfowl	lophodytes	ducks, geese and swans	anseriformes
+black-legged kittiwake	shorebirds	rissa	gulls, terns and skimmers	charadriiformes
+mute swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+glaucous gull	shorebirds	larus	gulls, terns and skimmers	charadriiformes
+sparrow	land birds	passer	old world sparrows, snowfinches	passeriformes
+Eurasian Woodcock	shorebirds	scolopax	sandpipers, snipes	charadriiformes
+tern	shorebirds	thalasseus	gulls, terns and skimmers	charadriiformes
+slaty-backed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+lesser black-backed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+brown-headed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+starling	land birds		starlings, rhabdornis	passeriformes
+blue goose	waterfowl		ducks, geese and swans	anseriformes
+tree sparrow	land birds	passer	old world sparrows, snowfinches	passeriformes
+wild chicken	domestic birds	gallus	pheasants and allies	galliformes
+turtledove	land birds		pigeons, doves	columbiformes
+wedge-tailed shearwater	land birds	puffinus	petrels, shearwaters	procellariiformes
+red crested pochard	waterfowl	netta	ducks, geese and swans	anseriformes
+northern shoverl	waterfowl	anas	ducks, geese and swans	anseriformes
+western grebe	land birds	aechmophorus	grebes	podicipediformes
+wild goose	waterfowl		ducks, geese and swans	anseriformes
+wild bird	land birds			
+Iceland gull	shorebirds	larus	gulls, terns and skimmers	charadriiformes
+GSC_chicken	domestic birds	gallus	pheasants and allies	galliformes
+pink-footed goose	waterfowl		ducks, geese and swans	anseriformes
+wild pigeon	land birds		pigeons, doves	columbiformes
+barnacle goose	waterfowl	branta	ducks, geese and swans	anseriformes
+black swan	waterfowl	cygnus	ducks, geese and swans	anseriformes
+village chicken	domestic birds	gallus	pheasants and allies	galliformes
+great black-headed gull	shorebirds		gulls, terns and skimmers	charadriiformes
+glaucous gull-herring gull hybrid	shorebirds		gulls, terns and skimmers	charadriiformes
+yellow-headed Amazon	land birds	amazona	parrots	psittaciformes
+bird	unknown			
+egyptian goose	waterfowl	alopochen	ducks, geese and swans	anseriformes
+anser fabalis	waterfowl		ducks, geese and swans	anseriformes
+anas_crecca	waterfowl	anas	ducks, geese and swans	anseriformes
+migratory duck	waterfowl	anas	ducks, geese and swans	anseriformes
+black chicken	domestic birds	gallus	pheasants and allies	galliformes
+gyrfalcon	land birds	falco	caracaras, falcons	falconiformes
+swan goose	waterfowl	anser	ducks, geese and swans	anseriformes
+chinese francolin	domestic birds	francolinus	pheasants and allies	galliformes
+anthropoides virgo	waterfowl	grus	cranes	gruiformes
+sacred ibis	shorebirds	threskiornis	ibises, spoonbills	pelecaniformes
+shelduck	waterfowl	anas	ducks, geese and swans	anseriformes
+yellow-billed duck	waterfowl	anas	ducks, geese and swans	anseriformes
+cape shoveler	waterfowl	anas	ducks, geese and swans	anseriformes
+lesser white-fronted goose	waterfowl	anser	ducks, geese and swans	anseriformes
+snowy owl	land birds	bubo	owls	strigiformes
+cooper's hawk	land birds	accipiter	kites, hawks and eagles	accipitriformes
+bald eagle	land birds	haliaeetus	kites, hawks and eagles	accipitriformes
+american green winged teal	waterfowl	anas	ducks, geese and swans	anseriformes
+anas platyrhynchos	waterfowl	anas	ducks, geese and swans	anseriformes
+tadorna tadorna	waterfowl	tadorna	ducks, geese and swans	anseriformes
+surf scoter	waterfowl	melanitta	ducks, geese and swans	anseriformes
+cackling goose	waterfowl	branta	ducks, geese and swans	anseriformes
+helmeted guineafowl	domestic birds	numida	guineafowl	galliformes
+peacock	domestic birds	lophornis	hummingbirds	apodiformes
+turtle dove	land birds	chalcophaps	pigeons, doves	columbiformes
+gray plover	shorebirds	charadrius	plovers	charadriiformes
+american oystercatcher	shorebirds	haematopus	oystercatchers	charadriiformes
+yellow-billed pintail	waterfowl	anas	ducks, geese and swans	anseriformes
+yellow-billed teal	waterfowl	anas	ducks, geese and swans	anseriformes
+white-faced whistling-duck	waterfowl			
+black-bellied whistling-duck	waterfowl			
+black-necked stilt	shorebirds	himantopus	stilts, avocets	charadriiformes
+yellow billed duck	waterfowl			
+domestic bird	domestic birds			
+night heron	shorebirds	ardea	herons, bitterns	pelecaniformes
+thrush	land birds	monticola	chats, old world flycatchers (320)	passeriformes
+bulbul	land birds	acritillas	bulbuls	passeriformes
+swallow	land birds	atticora	swallows, martins	passeriformes
+migratory waterfowl	waterfowl			
+copsychus saularis	land birds			
+gallinula chloropus	waterfowl	gallinula	rails, crakes and coots	gruiformes
+syrrhaptes paradoxus	land birds	syrrhaptes	sandgrouse	pterocliformes
+bewicks swan	waterfowl			
+eurasian teal	waterfowl	anas	ducks, geese and swans	anseriformes
+european herring gull	shorebirds	larus	gulls, terns and skimmers	charadriiformes
+brent goose	waterfowl		ducks, geese and swans	anseriformes
+swiftlet	land birds	aerodramus	swifts	apodiformes
+hooded crane	land birds	grus	cranes	gruiformes
+sandpiper	shorebirds		scolopacidae	charadriiformes
+common pochard	waterfowl	aythya	ducks, geese and swans	anseriformes
+northern pintail duck	waterfowl	anas	ducks, geese and swans	anseriformes
+common black duck	waterfowl	anas	ducks, geese and swans	anseriformes
+ruddy duck	waterfowl	oxyura	ducks, geese and swans	anseriformes
+mallard x black duck	waterfowl	anas	ducks, geese and swans	anseriformes
+emperor goose	waterfowl	chen	ducks, geese and swans	anseriformes
+pavo cristatus	domestic birds	pavo	pheasants and allies	galliformes
+semipalmated sandpiper	shorebirds	calidris	sandpipers, snipes	charadriiformes
+bucefala clangula	waterfowl			
+gallus gallus	domestic birds	gallus	pheasants and allies	galliformes
+buteo buteo	land birds	buteo	accipitridae	falconiformes
+himantopus himantopus	shorebirds	himantopus	recurvirostridae	charadriiformes
+franklin's gull	shorebirds	leucophaeus	laridae	charadriiformes
+whimbrel	shorebirds	numenius	scolopacidae	charadriiformes
+upland goose	waterfowl	chloephaga	anatidae	anseriformes
+silver teal	waterfowl	linnaeus	anatidae	anseriformes
+brown-hooded gull	shorebirds	chroicocephalus	laridae	charadriiformes
+kelp gull	shorebirds	larus	laridae	lariformes
+red shoveler	waterfowl	spatula	anatidae	anseriformes
+great tit	land birds	parus spilonotus	paridae	passeriformes
+oriental white stork	waterfowl	ciconia	ciconiidae	ciconiiformes
+eurasian curlew	shorebirds	numenius		scolopacidae	charadriiformes
+great bustard	land birds	bustard	otididae	gruiformes
+white-backed stilt	shorebirds	himantopus	recurvirostridae	charadriiformes
+white_winged_black_tern	shorebirds	chlidonias	laridae	lariformes
+willet	landbirds	fringillidae	accipitridae	falconiformes
+anseriformes	waterfowl	anseriformes	anseriformes	anseriformes
+bewick swan	waterfowl	cygnus	anatidae	anseriformes
+grey heron	waterfowl	ardea	ardeidae	ciconiiformes
+oriental magpie robin	landbirds	copsychus saularis	muscicapidae	passeriformes
+dove	landbirds	columba	columbidae	columbiformes
+owl	landbirds	strigiformes	strigiformes	strigiformes
+grey-faced buzzard	landbirds	accipitridae	accipitridae	falconiformes
+northern goshawk	landbirds	accipitridae	accipitridae	falconiformes
+common porchard	waterfowl	aythya	anatidae	anseriformes
+scoter	waterfowl	aythya	anatidae	anseriformes
+eastern buzzard	landbirds	buteo	accipitridae	falconiformes
+pigeon feces	landbirds	columba	columbidae	columbiformes
+wild bird feces	unknown	unknown	unknown	unknown
+anser cygnoides	waterfowl	anser	anatidae	anseriformes
+cygnus atratus	waterfowl	cygnus	anatidae	anseriformes
+commom teal	waterfowl	anas	anatidae	anseriformes
+ferruginous pochard	waterfowl	aythya	anatidae	anseriformes
+falcated duck	waterfowl	anas	anatidae	anseriformes
+falcon	landbirds	falcons	falconidae	falconiformes
+great-horned owl	landbirds	bubo	strigidae	strigiformes
+red-tailed hawk	landbirds	buteo	accipitridae	falconiformes
+jungle crow	landbirds	corvus	corvidae	passeriformes
+grey-headed gull	shorebirds	larus	laridae	charadriiformes
+chiken	domestic birds	gallus	pheasants and allies	galliformes
+black skimmer	shorebirds	rynchops	laridae	charadriiformes
+blackish oystercatcher	shorebirds	haematopus	haematopodidae	charadriiformes
+elegant tern	shorebirds	sterna	laridae	lariformes
+lesser snow goose	waterfowl	anser	anatidae	anseriformes
+blue & white flycatcher	landbirds	cyanoptila	muscicapidae	passeriformes
+magpie robin	landbirds	copsychus saularis	muscicapidae	passeriformes
+whooper swans	waterfowl	cygnus	anatidae	anseriformes
+fighting bird	unknown	unknown	unknown	unknown
+meleagris gallopavo	domestic birds	meleagris	phasianidae	galliformes
+anas falcata	waterfowl	anas	anatidae	anseriformes
+piegon	landbirds	columba	columbidae	columbiformes
+mulard duck	unknown	unknown	unknown	unknown
+mew gull	shorebirds	larus	laridae	charadriiformes
+duck: mallard	waterfowl	anas	anatidae	anseriformes
+migratory bird	unknown	unknown	unknown	unknown
+wild bird_anas	waterfowl	anas	anatidae	anseriformes
+wild bird_anas platyrhynchos	waterfowl	anas	anatidae	anseriformes
+accipiter gentilis schvedowi	landbirds	accipitridae	accipitridae	falconiformes
+athene noctua	landbirds	athene	strigidae	strigiformes
+falco tinnunculus	landbirds	falcons	falconidae	falconiformes
+mareca falcata	waterfowl	anas	anatidae	anseriformes
+common mallard	waterfowl	anas	anatidae	anseriformes
+white-naped crane	waterfowl	grus	gruidae	gruiformes
+twite	landbirds	carduelis	fringillidae	passeriformes
+tibetan snowfinch	landbirds	montifringilla	passeridae	passeriformes
+long-billed calandra	landbirds	chalcites	cuculidae	cuculidae
+ground jay	landbirds	podoces	corvidae	passeriformes
+little cormorant	waterfowl	phalacrocorax	phalacrocoracidae	pelecaniformes
+alopochen aegyptiacus	waterfowl	alopochen	anatidae	anseriformes
