@@ -12,7 +12,10 @@ The sequence data used in the programs was downloaded from https://ftp.ncbi.nih.
 The aligned sequences used in the programs were done mafft-7.037-win64。
 ### Phylogentic tree
 The phylogentic trees used in the programs were constructed by IQ-TREE.
+<<<<<<< HEAD
 ## Host classification
 We divided the hosts of IAVs into human, swine and avian. The avian host was subdivided into shorebirds, waterfowl, land birds and domestic birds, which was shown in /utils/avianClassification. Specifically, we gave the host classification of each avian influenza virus in /utils/genomeAvianHostsClassification.
 ## Country classification
 We also divided the locations into 22 areas according to the administrative division, including North America, Western Europe and East Asia et al., which was shown in /utils/countryContinetContinentDetail.
+=======
+>>>>>>> 61c38e790b523be2edbce685e92cb8d061c6fa9d
