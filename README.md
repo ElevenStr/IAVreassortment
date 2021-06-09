@@ -16,4 +16,4 @@ The phylogentic trees used in the programs were constructed by IQ-TREE.
 ## Host classification
 We divided the hosts of IAVs into human, swine and avian. The avian host was subdivided into shorebirds, waterfowl, land birds and domestic birds, which was shown in /utils/avianClassification. Specifically, we gave the host classification of each avian influenza virus in /utils/genomeAvianHostsClassification.
 ## Location classification
-We also divided the locations into 22 areas according to the administrative division, including North America, Western Europe and East Asia et al., which was shown in /utils/countryContinetContinentDetail.
+We also divided the locations into 22 areas according to the administrative division, including North America, Western Europe and East Asia et al., which was shown in /utils/LocationContinetContinentDetail.
